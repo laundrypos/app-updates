@@ -1,0 +1,7 @@
+{
+  "version": "1.0.3",
+  "buildNumber": 4,
+  "downloadUrl": "https://github.com/laundrypos/desktop_app/releases/latest/download/Freshora-windows-x64.zip",
+  "isRequired": false,
+  "releaseNotes": "• Fixed printer settings\n• Improved ticket printing\n• Bug fixes and performance improvements"
+}
