@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "buildNumber": 11,
+  "version": "1.1.1",
+  "buildNumber": 12,
   "downloadUrl": "https://github.com/laundrypos/app-updates/releases/latest/download/Freshora-windows-x64.zip",
   "isRequired": false,
-  "releaseNotes": "• Fixed tickets"
+  "releaseNotes": "• Add New Terms on Ticket\n• Fix some bugs"
 }
