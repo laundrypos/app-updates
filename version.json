@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "buildNumber": 17,
+  "version": "1.1.7",
+  "buildNumber": 18,
   "downloadUrl": "https://github.com/laundrypos/app-updates/releases/latest/download/Freshora-windows-x64.zip",
   "isRequired": false,
   "releaseNotes": "• Mejora de cash cut\n• Implementación de extras\n• Permitir números en negativo\n• Focus en Brand\n• Ordenamiento alfabético de professional clean\n• Cantidad de prendas en la descripción\n• Ordenar productos en la impresión del ticket\n• Borrar cliente anterior al seleccionar ventana de clientes\n• Eliminar el alert dialog\n• Complete Payment Dialog Fixed\n• Client Search Fixed"
